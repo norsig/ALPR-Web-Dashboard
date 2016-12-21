@@ -1,4 +1,4 @@
-var server = "127.0.0.1"
+var server = location.host //this is the server address for web sockets 
 var last_plate = ""
 
 $(document).ready(function(){
