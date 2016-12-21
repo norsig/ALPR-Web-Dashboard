@@ -1,0 +1,51 @@
+#map{
+    height: 400px;
+    width: 100%;
+}
+body { 
+	padding-top: 70px;
+}
+
+.big-icon{
+	font-size: 50px;
+}
+
+.big-text{
+	font-size: 40px;
+}
+
+.panel-color-primary{
+	color: #337ab7;
+}
+
+.panel-color-green{
+	color: #3c763d;
+}
+
+.panel-color-red{
+	color: #a94442;
+}
+
+.panel-color-light-blue{
+	color: #31708f;
+}
+
+.panel-footer.panel-bg-primary {
+    background: #337ab7;
+    color: #fff;
+}
+
+.panel-footer.panel-green {
+    background: #dff0d8;
+    color: #3c763d;
+}
+
+.panel-footer.panel-red {
+    background: #f2dede;
+    color: #a94442;
+}
+
+.panel-footer.panel-light-blue {
+    background: #d9edf7;
+    color: #31708f;
+}

@@ -1,0 +1,42 @@
+{{extend 'container.html'}}
+<!-- Real-Time -->
+<div class="row">
+  <div class="col-md-8">
+  	<div class="panel panel-default">
+	  <div class="panel-heading">Patentes en tiempo real</div>
+	  <div class="panel-body">
+		<table class="table table-striped table-hover">
+		<thead>
+			<tr>
+				<th>Sitio</th>
+				<th>Camara</th>
+				<th>Patente</th>
+				<th>Precisión</th>
+				<th>Fecha</th>
+				<th>Foto</th>
+			</tr>
+		</thead>
+		<tbody>
+		 </tbody>
+		</table>    
+	  </div>
+	</div>
+<!-- //Real-Time -->
+
+<!-- Latest-alerts -->
+  </div>
+  <div class="col-md-4">
+  	<div class="panel panel-default">
+	  <div class="panel-heading">Alertas recientes</div>
+	  <ul class="list-group">
+		</ul>
+	</div>
+  </div>
+<!-- //Latest-alerts -->
+
+</div>
+<!-- //Panels -->
+
+<!-- real time -->
+<script src="{{=URL('static','js/utils.js')}}"></script>
+<script src="{{=URL('static','js/realtime.js')}}"></script>

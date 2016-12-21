@@ -1,0 +1,1099 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Cams</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>MicroCentro</name>
+			<Placemark>
+				<name>1- Plaza independencia</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2036858,-26.8304088,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2 - Crisostomo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2049947,-26.8324002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3 - 25 y San Martin</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2042437,-26.8297578,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4 - Caja popular</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2034497,-26.8297961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5 - Laprida y mendoza</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2023983,-26.8286472,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6 - Fija</name>
+				<styleUrl>#icon-503-F4B400-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2035999,-26.8333575,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7 - </name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2045441,-26.831174700000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8 - </name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2030849,-26.8313662,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9 - </name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.203321,-26.825583500000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10 -Fija</name>
+				<styleUrl>#icon-503-F4B400-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2050805,-26.832993700000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11 -</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2049518,-26.8296238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12 -</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2039862,-26.828379200000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13 -</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2034068,-26.8326874,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14 - </name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2045655,-26.8306578,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15 -</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2038145,-26.8268473,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16 -</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2061534,-26.8279579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17 - Muñecas y córdoba</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2049947,-26.826809,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18 - 25 y corrientes</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2026558,-26.8229793,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19 - 25 y Santiago</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2029347,-26.8242814,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21 - Congreso y San Lorenzo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2037716,-26.8340085,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22 - Buenos aires y mendoza</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.205338,-26.8281302,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23 - Casa de Gobierno INTERNA</name>
+				<styleUrl>#icon-503-F4B400-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.204587,-26.8298536,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24 - Casa de Gobierno externa</name>
+				<styleUrl>#icon-503-F4B400-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2043939,-26.8299876,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25 - 9 de Julio y San lorenzo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2052522,-26.8336447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26 - San Martin y Laprida</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.202806,-26.830045,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27 - Buenos aires y crisostomo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2065182,-26.8320364,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28 - Chacabuco y Crisostomo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2079129,-26.8317109,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29 - Ayacucho y Crisostomo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2095222,-26.8313662,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30 - Jujuy y crisostomo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2110028,-26.831079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31 - Jujuy y 24</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2107668,-26.8299493,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32 - 24 y chacabuco</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2076554,-26.830428,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33 - 24 Y Buenos aires</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.206089,-26.830696100000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34 - Muñecas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.205574,-26.828743,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35 - Muñecas y San martin</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2057886,-26.8294897,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36 - Maipu y San martin</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2073336,-26.8291451,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37 - Junin y san martin</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2088356,-26.828877,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38 - Salta y San martin</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2103806,-26.8286281,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41 - Salta y medonza</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2100587,-26.8270771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42 - Salta y Cordoba</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2097154,-26.8257559,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>43 - Cordoba y maipu</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2065611,-26.8264452,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44 - Junin y pje padilla</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2079344,-26.8254303,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>45- Salta y San Juan</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.209372,-26.8243006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46 - Crisostomo y las heras</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2018833,-26.8329746,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>47 - Crisostomo y moreno</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1989651,-26.8337596,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>48 - Crisostomo y saenz peña</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1972914,-26.834066,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>49 - Las heras y 24</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2016258,-26.8316343,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>50 - Entre rios y 24</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2001452,-26.8319023,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>51 - Moreno y 24</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1985145,-26.8323044,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>52 - Saenz peña y 24</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1969051,-26.8325342,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>53 - Rivadavia y San martin</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2012825,-26.8303322,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>54 - San Martin y Monteagudo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1998019,-26.830562,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>55 - Saenz peña y san martin</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1966047,-26.831213,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>56 - Rivadavia y cordoba</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2006388,-26.8276132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>57 - Balcarce y mendoza</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1978707,-26.8294323,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>58 - Cordoba y balcarce</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1975703,-26.8280919,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>59 - San juan y laprida</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2017975,-26.8259856,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>60 - San juan y monteagudo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1987934,-26.8264069,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>61 - San juan y balcarce</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1972699,-26.8266175,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>62 - Santiago y Avellaneda</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.19523140000001,-26.8256793,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>63 - Santiago y blacarce</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1969695,-26.8252963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>64 - Santiago y rivadavia</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.200038,-26.8248559,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>65 - Balcarce y corrientes</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1967335,-26.8240325,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>66 - Laprida y corrientes</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2011538,-26.8232282,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>67 - 25 y marcos paz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2023339,-26.821524,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>68 - Laprida y Marcos Paz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2007461,-26.8218687,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>69 - Monteagudo y Marcos Paz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1978278,-26.8224048,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>70 - Avellaneda y Marcos Paz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1945448,-26.8228836,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>106 - Santa fe y muñecas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2034497,-26.8197622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>107 - Santa fe y 25</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2020335,-26.8202027,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>108 - Santa fe y Rivadavia</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.198965,-26.8207197,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>109 - Santa fe y balcarce</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1960039,-26.821294200000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>110 - Sarmiento y maipu</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2044582,-26.8182303,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>111 - Sarmiento y Muñecas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2031279,-26.8184409,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>112 - Sarmiento y laprida</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1999521,-26.8190345,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>113 - Sarmiento y monteagudo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1971412,-26.819609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>114 - Sarmiento y avellaneda</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1940298,-26.8201452,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>91 - Av. Soldati y Gob. del campo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1912189,-26.8205474,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>100 - Gob. del campo y S. Valdez</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1851463,-26.821772900000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>74 - Cnel Suarez y Gobernador del campo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1780653,-26.822941000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>92 - Parque</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1834941,-26.8247793,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>77 - La rural (parque 9 de julio)</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1853395,-26.8264835,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>90 - Av Paz Posse y Las tipas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1876569,-26.8236687,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>72 - Rosedal Frente</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1891804,-26.8235729,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>82 - Rosedal - P. 9 de julio</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1906824,-26.8235729,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>93 - Av Soldati y Guatemala</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1927423,-26.8268665,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>94 - Soldati y Cuba</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1932144,-26.8286664,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>78 - Ibera Pita y Pacara</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1933432,-26.831844900000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>79 - Frente Jardín Japones (?)</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1908541,-26.8306578,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>81 - SoldTuc e Ibera Pita</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.191412,-26.8291642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>76 - P. Posse y Thays (Bar America)</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1882148,-26.8287238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>88 - Av. P. Posse (bar Totem)</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1875067,-26.8262729,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>80 - Av Ramón Paz Posse</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1910901,-26.8324576,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>87 - Av P. Posse y Los Tarcos</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1893091,-26.8312513,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>89 - Carlos Thays y Los Tarcos</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.185833,-26.831462,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>97 - Fac de Filosofia y Educ Fisica</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1860046,-26.8345064,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>98 - Benjamin Araoz y Cnel Suarez</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1809621,-26.835502,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>71 - Frente autodromo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1798463,-26.8271537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>99 - Cnel Suarez y Guatemala</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1790094,-26.8280154,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>75 - Cnel Suarez y Pje Rio Sali</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1798892,-26.8316534,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>95 - Benjamin Araoz y Soldati</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1941371,-26.8329363,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>96 - Hipodromo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1886654,-26.8341234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>83 - Lago San Miguel</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1878285,-26.8326874,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>101 - Mate de luna y pellegrini</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2260125,-26.8265314,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>102 - Mate de Luna y Cervantes</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2222037,-26.8274218,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>103 - Parque avellaneda centro</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2237272,-26.8261867,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>104 - Parque Avellaneda Anfiteatro</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.22524,-26.8254878,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>105  - San Martin y Asuncion</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2226007,-26.8257271,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>115 - Chile y 25 (Atletico)</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2003384,-26.8132704,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>116 - Bolivia y laprida</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1985145,-26.812217100000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>117 - Bolivar y Matienzo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2305508,-26.835396700000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>118 - Bolivar y Pellegrini</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2288449,-26.8357318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>119 - Alfredo Guzman y Ruta 301(Roca)</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2585316,-26.834334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>122 - Centro Plaza Belgrano</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2163029,-26.8375507,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>123 - J. B. Alberdi y Pje Dorrego</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2160883,-26.8381442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>124 - Lavalle y Alberdi</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.215981,-26.8368997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>125 - Lavalle y Chacabuco</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2095437,-26.8386229,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>126 - Ayacucho y Bolivar</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.211432,-26.839599400000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>127 - Frente Hospital de Niños</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2108955,-26.8404896,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>128 - Guardia hospital de niños</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2110672,-26.8411693,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>129 - Lamadrid y 9 de julio</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2062607,-26.8378858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>130 - Congreso y Lamadrid</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2046514,-26.838192100000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>131 - Congreso y Pje Velez Sarsfield</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2045333,-26.8374741,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>132 - 9 de julio y Gral Paz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2059281,-26.8364498,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>133 - Corrientes y Catamarca</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2101874,-26.8212367,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>134 - Santiago y Jose Colombres</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2120543,-26.8223091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>135 - Av Brigido Terán y Dgo García</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1954889,-26.8373975,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>138 - Parque centenario - Santiago</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.255667,-26.8133565,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>140 - Mate de luna y Patricias Argentinas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2563965,-26.8200207,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>141 - Parque Guillermina - Pje Galan</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2567077,-26.8209878,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>143 - P. Guillermina y A. Farias</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2599263,-26.8221942,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>144 - P. Guillermina Centro</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.260849,-26.825066500000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>145 - P. Guillermina Oeste</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2644539,-26.8243389,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>147 - P. Guillermina R. Cossio y Lamadrid</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.258553,-26.8266558,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>148 - P. Guillermina Museo Cancha</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2618575,-26.827230300000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>151 - Av Francisco de Aguirre y Ejercito</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2220535,-26.7895978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>152 - Av Francisco de Aguirre y Libano</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2102518,-26.7923177,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>153 - E. Castelar y Siria</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2042437,-26.7964166,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>154 - Av. Fr. Aguirre y Monteagudo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1915836,-26.7958612,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>155 - J. B. Justo y Fr. Aguirre</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1882792,-26.7965507,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>156 - Rotonda San Cayetano</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.2001882,-26.8448836,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>157 - J. Ingenieros y Av. Wenceslao Posse</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1927423,-26.8406907,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>159 - Acc. Puente Lucas Cordoba</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1758552,-26.8367753,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>199 - Sarmiento y Pje García</name>
+				<styleUrl>#icon-503-F4B400-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.1948237,-26.8198771,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-F4B400-nodesc-normal'>
+			<IconStyle>
+				<color>ff00B4F4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-F4B400-nodesc-highlight'>
+			<IconStyle>
+				<color>ff00B4F4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-F4B400-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-F4B400-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-F4B400-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

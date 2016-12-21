@@ -1,0 +1,13 @@
+{{extend 'container.html'}}
+<script src="{{=URL('static','js/utils.js')}}"></script>
+
+<!-- Real-Time -->
+{{=form}}
+<!-- //Real-Time -->
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('.epoch').each(function(index, val){
+			$(this).text(epoch(val))
+		})
+	})
+</script>
